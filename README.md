@@ -1,4 +1,4 @@
-# 练手模块，部分细节未完善，慎用
+# 练手模块，仅供参考
 
 ## 打包辅助工具
 * ![image](https://github.com/justalittlefat/Prism/blob/master/Images/01.jpg)

@@ -1,7 +1,9 @@
 ## 简介
 * 这是一个Unity AssetBundle管理模块
-    > *在开发流程中，AssetBundle Browser面板可以配置资源筛选规则，然后根据筛选规则自动定位目标资源，分析依赖，最终实现一键多平台打包
-    > *在运行过程中，BundleManager负责提供资源同步和异步加载API，并监视资源的依赖和引用计数，实现自动卸载
+*在开发流程中：
+>AssetBundle Browser面板可以配置资源筛选规则，然后根据筛选规则自动定位目标资源，分析依赖，最终实现一键多平台打包
+*在运行过程中：
+>BundleManager负责提供资源同步和异步加载API，并监视资源的依赖和引用计数，实现自动卸载
 
 ## AssetBundle Browser
 * ![image](https://github.com/justalittlefat/Prism/blob/master/Images/01.jpg)
